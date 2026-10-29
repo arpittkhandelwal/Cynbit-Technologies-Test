@@ -1,0 +1,244 @@
+// SYNTHETIC DATA: Generated for assessment purposes based on publicly available information from cynbit.in. Not official Cynbit content.
+[
+  {
+    "id": "cynbit_company_001",
+    "source": "cynbit.in/about",
+    "title": "About Cynbit Technologies",
+    "content": "Cynbit Technologies is a technology startup founded in April 2024, headquartered in Jaipur, Rajasthan, India. The company operates under the philosophy of 'Engineering for Optimism' — a belief that thoughtfully built technology can solve real human problems and create positive societal impact. With a team of approximately 15 engineers, designers, and growth strategists, Cynbit focuses on building AI-powered products and services for startups and mid-market businesses across India and globally.",
+    "category": "company",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_company_002",
+    "source": "cynbit.in/about",
+    "title": "Cynbit Mission and Philosophy",
+    "content": "Cynbit's core philosophy is 'Engineering for Optimism'. This means the team builds technology not just for efficiency, but for meaningful human outcomes. The company believes that AI and automation, when designed responsibly, can democratize access to opportunity — whether that is helping small businesses compete with larger players through intelligent automation, or giving underprivileged students access to adaptive learning tools. Every product and service at Cynbit is evaluated through this lens: does it create genuine value?",
+    "category": "company",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_company_003",
+    "source": "cynbit.in/about",
+    "title": "Cynbit Founding Story",
+    "content": "Cynbit Technologies was co-founded in April 2024 by Mohak Saini (CEO) and Ashutosh Upadhyay (Co-founder), with Dhawan Kumar Nama serving as Chief Technology Officer. The founders identified a gap in the Indian startup ecosystem: most AI integration and automation tools were either too expensive for small businesses or required deep technical expertise to implement. Cynbit was built to bridge that gap — offering enterprise-grade AI capabilities with startup-friendly pricing and hands-on implementation support.",
+    "category": "company",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_team_001",
+    "source": "cynbit.in/team",
+    "title": "Mohak Saini – CEO & Co-founder",
+    "content": "Mohak Saini is the Chief Executive Officer and Co-founder of Cynbit Technologies. He leads the company's strategic vision, client relationships, and product direction. With a background in software engineering and business development, Mohak drives Cynbit's mission to make AI-powered automation accessible to businesses of all sizes. He is passionate about using technology as a tool for social and economic inclusion.",
+    "category": "team",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_team_002",
+    "source": "cynbit.in/team",
+    "title": "Ashutosh Upadhyay – Co-founder",
+    "content": "Ashutosh Upadhyay is the Co-founder of Cynbit Technologies. He plays a key role in shaping Cynbit's product strategy and go-to-market approach. Ashutosh brings expertise in growth engineering, product design, and business development, helping Cynbit's clients achieve measurable outcomes through technology-first strategies.",
+    "category": "team",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_team_003",
+    "source": "cynbit.in/team",
+    "title": "Dhawan Kumar Nama – CTO",
+    "content": "Dhawan Kumar Nama serves as the Chief Technology Officer of Cynbit Technologies. He leads the engineering team and oversees the technical architecture of Cynbit's products and client deliverables. Dhawan specializes in AI/ML systems, scalable backend infrastructure, and LLM integration. His technical leadership ensures that Cynbit's solutions are not just innovative but also production-ready and maintainable.",
+    "category": "team",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_services_001",
+    "source": "cynbit.in/services",
+    "title": "AI Agents & Automation Services",
+    "content": "Cynbit's flagship service offering is AI Agents and Automation. The team designs and deploys intelligent autonomous agents powered by large language models (LLMs) including GPT-4, Gemini, and open-source models. These agents can handle tasks such as customer support automation, sales qualification, document processing, data extraction, and multi-step workflow orchestration. Cynbit builds both single-agent and multi-agent systems, integrating them into existing business workflows via APIs, webhooks, and no-code connectors. Key deliverables include agent architecture design, prompt engineering, RAG (Retrieval-Augmented Generation) pipelines, and production deployment.",
+    "category": "services",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_services_002",
+    "source": "cynbit.in/services",
+    "title": "LLM Integration & Custom AI Solutions",
+    "content": "Cynbit provides end-to-end LLM integration services for businesses looking to embed AI capabilities into their products. This includes fine-tuning foundation models on proprietary data, building RAG (Retrieval-Augmented Generation) systems with vector databases like FAISS, Pinecone, or Weaviate, and creating structured output pipelines using Pydantic and function calling. The team has expertise in prompt optimization, context window management, and evaluation frameworks. Clients receive production-ready AI features with monitoring, logging, and fallback mechanisms built in.",
+    "category": "services",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_services_003",
+    "source": "cynbit.in/services",
+    "title": "Software Development Services",
+    "content": "Cynbit offers full-stack software development services with a focus on SaaS products, web applications, and API-first architectures. The team builds with modern stacks including React, Next.js, FastAPI, Django, Node.js, and PostgreSQL. Cynbit specializes in building MVPs for startups, scaling existing products, and migrating legacy systems to cloud-native architectures. Development follows agile methodology with bi-weekly sprints, transparent progress tracking, and continuous deployment pipelines. Average project timeline for an MVP is 6–12 weeks.",
+    "category": "services",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_services_004",
+    "source": "cynbit.in/services",
+    "title": "Growth & Lead Generation Services",
+    "content": "Cynbit's Growth & Lead Generation vertical helps businesses acquire and convert customers through data-driven strategies. Services include paid advertising (Google Ads, Meta Ads), SEO and content strategy, CRM integration and automation (HubSpot, Salesforce), conversion funnel design, and lead scoring systems. What differentiates Cynbit's growth services is the integration of AI — using predictive models for lead scoring, AI-generated content for campaigns, and automated follow-up sequences. The team works on performance-based engagements, focusing on measurable ROI.",
+    "category": "services",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_services_005",
+    "source": "cynbit.in/services",
+    "title": "Autonomous Workflow Design",
+    "content": "Cynbit designs autonomous multi-step workflows that reduce human intervention in repetitive business processes. Typical workflows include: automated lead intake and qualification, invoice processing and approval chains, employee onboarding automation, customer support ticket routing, and data pipeline orchestration. These workflows are built using tools like n8n, Zapier, Make (Integromat), custom Python scripts, and LLM-powered decision nodes. Each workflow is thoroughly tested and includes fallback paths and human-in-the-loop checkpoints for critical decisions.",
+    "category": "services",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_products_001",
+    "source": "cynbit.in/products/bitelevate",
+    "title": "BitElevate – Adaptive Learning Platform",
+    "content": "BitElevate is Cynbit's flagship EdTech product — an adaptive learning platform designed to personalize education across 16+ cognitive and learning style dimensions. The platform uses AI to assess each student's learning pace, comprehension patterns, preferred content formats (video, text, quizzes), and performance trajectories. It then dynamically adjusts the curriculum, content difficulty, and teaching style in real time. BitElevate is designed with digital inclusion as a core principle — it works effectively on low-bandwidth connections and supports regional language interfaces, making quality education accessible to students from underserved communities.",
+    "category": "products",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_products_002",
+    "source": "cynbit.in/products/bitelevate",
+    "title": "BitElevate – Social Impact & Manav Seva Trust Partnership",
+    "content": "Cynbit has partnered with the Manav Seva Trust to deploy BitElevate for digital inclusion initiatives. Through this partnership, BitElevate is being made available to students from economically disadvantaged backgrounds who lack access to quality personalized education. The Manav Seva Trust partnership represents Cynbit's commitment to the 'Engineering for Optimism' philosophy — using technology to create social equity. The platform has been deployed in pilot programs across Rajasthan, offering AI-powered tutoring to students who would otherwise not have access to such resources.",
+    "category": "products",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_products_003",
+    "source": "cynbit.in/products/tenanteasy",
+    "title": "TenantEase – Property Management SaaS",
+    "content": "TenantEase is a SaaS platform built by Cynbit for property managers, landlords, and real estate companies. It digitizes and automates the entire tenant lifecycle — from property listing and applicant screening, to lease management, rent collection, maintenance request tracking, and tenant communication. TenantEase uses AI for applicant risk scoring, automated rent reminder sequences, and predictive maintenance alerting. The platform is built for the Indian real estate market, supporting UPI payments, Indian lease agreement formats, and GST-compliant invoicing. It targets individual landlords, co-living operators, and mid-size property management firms.",
+    "category": "products",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_products_004",
+    "source": "cynbit.in/products/cynbit-studio",
+    "title": "Cynbit Studio – AI Agent Builder",
+    "content": "Cynbit Studio is a no-code/low-code platform that allows businesses to design, test, and deploy AI agents without deep technical expertise. Users can visually compose agent workflows, connect data sources (documents, databases, APIs), configure LLM settings, and publish agents as embeddable chat widgets or API endpoints. Cynbit Studio abstracts away the complexity of prompt engineering, RAG pipeline setup, and LLM API management — enabling non-technical teams to build AI-powered customer assistants, internal knowledge bots, and process automation agents.",
+    "category": "products",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_products_005",
+    "source": "cynbit.in/products/revio",
+    "title": "Revio – Revenue Intelligence Platform",
+    "content": "Revio is Cynbit's revenue intelligence product designed for sales teams and growth leaders. It aggregates data from CRMs, marketing platforms, and customer touchpoints to provide a unified view of the revenue funnel. Revio uses AI to identify deal risks, surface high-priority opportunities, forecast pipeline outcomes, and recommend next-best actions for sales representatives. Key features include lead scoring, churn prediction, meeting intelligence (call transcript analysis), and automated CRM data enrichment. Revio is designed as an API-first platform that integrates with HubSpot, Salesforce, Pipedrive, and custom CRMs.",
+    "category": "products",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_contact_001",
+    "source": "cynbit.in/contact",
+    "title": "Cynbit Contact Information",
+    "content": "Cynbit Technologies can be reached through multiple channels. For business opportunities, partnerships, and new project inquiries, email the team at opportunities@cynbit.in. For technical support and product-related questions, contact support@cynbit.in. The team can also be reached by phone at +91 89479 62667 during business hours (Monday–Friday, 10 AM – 7 PM IST). Cynbit's office is located in Jaipur, Rajasthan, India. The team typically responds to email inquiries within 24 business hours.",
+    "category": "contact",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_contact_002",
+    "source": "cynbit.in/contact",
+    "title": "How to Work with Cynbit",
+    "content": "Engaging Cynbit for a project typically follows a structured discovery process. Step 1: Initial consultation call (30 mins) to understand your problem statement and goals. Step 2: Technical scoping session where the Cynbit team proposes an architecture and technology approach. Step 3: Proposal delivery with timeline, team composition, and pricing. Step 4: Kickoff and onboarding. Cynbit works with clients on project-based engagements, dedicated team models, and retainer arrangements. Projects start from ₹2 Lakhs for small MVPs and scale based on complexity. To begin, email opportunities@cynbit.in or call +91 89479 62667.",
+    "category": "contact",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_blog_001",
+    "source": "cynbit.in/blog",
+    "title": "The Architect's Digest – Cynbit's Blog",
+    "content": "Cynbit publishes 'The Architect's Digest', a technical blog covering topics at the intersection of AI, software engineering, and business strategy. The blog targets CTOs, product managers, and technical founders who want depth — not surface-level content. Key editorial categories include: AI Architecture (RAG systems, agent design patterns, LLM evaluation), Engineering Excellence (system design, microservices, DevOps), Growth Engineering (data-driven marketing, funnel optimization), and Impact Stories (how technology creates social change). New posts are published bi-weekly.",
+    "category": "blog",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_blog_002",
+    "source": "cynbit.in/blog/rag-architecture",
+    "title": "Blog: Building Production RAG Systems",
+    "content": "In 'The Architect's Digest', Cynbit published a deep dive on building production-ready RAG (Retrieval-Augmented Generation) systems. The article covers: choosing the right embedding model (dense vs sparse, sentence-transformers vs OpenAI embeddings), vector database selection (FAISS for local, Pinecone/Weaviate for scale), chunking strategies (fixed-size vs semantic chunking), retrieval quality evaluation (recall@k, MRR, NDCG), and anti-hallucination guardrails. The post is based on lessons learned from deploying RAG systems for Cynbit's enterprise clients.",
+    "category": "blog",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_blog_003",
+    "source": "cynbit.in/blog/ai-agents-2024",
+    "title": "Blog: AI Agent Design Patterns",
+    "content": "Cynbit's blog post on AI Agent Design Patterns explores the architectural patterns that underpin reliable autonomous agents: ReAct (Reasoning + Acting), Plan-and-Execute, Reflexion (self-correction), and multi-agent orchestration with supervisor agents. The article discusses when to use single-agent vs multi-agent architectures, how to handle tool call failures and retries, and how to build agents that are transparent and auditable. This post has been referenced by several Indian AI communities and engineering teams.",
+    "category": "blog",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_services_pricing_001",
+    "source": "cynbit.in/services/pricing",
+    "title": "Cynbit Engagement Models & Pricing",
+    "content": "Cynbit offers flexible engagement models tailored to different business needs: (1) Project-based: Fixed scope, fixed price, ideal for MVPs and defined deliverables. Starting from ₹2 Lakhs. (2) Dedicated Team: A dedicated pod of 2–5 engineers embedded with your team, billed monthly. Ideal for ongoing product development. (3) Retainer: Monthly advisory and execution support for AI strategy, audits, and continuous improvement. Starting from ₹75,000/month. (4) POC/Pilot: 2–4 week proof-of-concept engagements to validate AI use cases before full investment. All pricing is custom-quoted based on complexity, team size, and timeline.",
+    "category": "services",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_services_industries_001",
+    "source": "cynbit.in/services/industries",
+    "title": "Industries Cynbit Serves",
+    "content": "Cynbit serves clients across multiple industries including: EdTech (adaptive learning, assessment automation), PropTech (property management, tenant experience), FinTech (risk scoring, compliance automation, document processing), HealthTech (patient intake, appointment automation, clinical document analysis), E-commerce (recommendation engines, customer support bots, inventory intelligence), and Professional Services (legal document review, consulting knowledge bases, sales automation). The team has built AI solutions for clients ranging from early-stage startups to established mid-market businesses.",
+    "category": "services",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_tech_stack_001",
+    "source": "cynbit.in/about/tech",
+    "title": "Cynbit Technology Stack",
+    "content": "Cynbit's engineering team works with a modern, pragmatic technology stack. On the AI/ML side: Python, LangChain, LlamaIndex, sentence-transformers, FAISS, Pinecone, Hugging Face. LLM providers: OpenAI GPT-4, Google Gemini, Anthropic Claude, and Mistral/Llama for open-source deployments. Frontend: React, Next.js, Tailwind CSS. Backend: FastAPI, Django, Node.js. Databases: PostgreSQL, MongoDB, Redis. Infrastructure: AWS, GCP, Vercel, Docker, Kubernetes. The team selects tools based on client requirements, not vendor loyalty.",
+    "category": "company",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_impact_001",
+    "source": "cynbit.in/impact",
+    "title": "Cynbit Social Impact Initiatives",
+    "content": "Cynbit's impact work is central to its identity. The partnership with Manav Seva Trust to deploy BitElevate is the flagship initiative — providing adaptive learning technology to students who lack access to quality education. Beyond BitElevate, Cynbit contributes to the open-source AI community by publishing research-grade blog posts, contributing to GitHub projects, and offering pro-bono technical consulting to select NGOs. The team believes that the same AI capabilities powering billion-dollar enterprise applications can — and should — be applied to education equity, healthcare access, and community development.",
+    "category": "company",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_case_study_001",
+    "source": "cynbit.in/case-studies",
+    "title": "Case Study: AI-Powered Lead Qualification System",
+    "content": "Cynbit built an AI-powered lead qualification system for a B2B SaaS company that was overwhelmed with inbound leads. The solution included: a conversational AI agent for initial prospect engagement, BANT extraction from conversation transcripts, automated lead scoring and CRM sync, and escalation routing for hot leads. Results after 3 months: 60% reduction in time-to-first-response, 40% improvement in sales team efficiency, and a 25% increase in qualified pipeline. The system was built using LangChain, GPT-4, a custom FAISS vector store for product knowledge, and HubSpot API integration.",
+    "category": "services",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_case_study_002",
+    "source": "cynbit.in/case-studies",
+    "title": "Case Study: TenantEase MVP Deployment",
+    "content": "TenantEase was initially developed as a client project for a Jaipur-based co-living operator managing 200+ units across 8 properties. The client needed to replace a spreadsheet-based management system with a digital platform that could handle tenant onboarding, rent collection, and maintenance requests. Cynbit delivered an MVP in 10 weeks — a React + FastAPI application with UPI payment integration, WhatsApp-based tenant communication, and a mobile-first dashboard. Post-MVP, Cynbit productized TenantEase and now offers it as a SaaS product to other property managers.",
+    "category": "products",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_faq_001",
+    "source": "cynbit.in/faq",
+    "title": "Frequently Asked Questions – Cynbit",
+    "content": "Q: How long does it take to build an AI agent? A: Simple agents (single-tool, single-purpose) can be built in 1–2 weeks. Complex multi-agent systems with RAG, custom integrations, and evaluation frameworks typically take 4–8 weeks. Q: Do you work with non-technical clients? A: Yes. Cynbit handles the full technical implementation. Clients need to provide domain expertise and business context, not technical knowledge. Q: Can you integrate with our existing software? A: Yes. Cynbit builds integrations with virtually any system that has an API. We have built integrations with HubSpot, Salesforce, Razorpay, Zoho, Notion, Slack, and many others.",
+    "category": "company",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_faq_002",
+    "source": "cynbit.in/faq",
+    "title": "FAQs – Data Security and Privacy",
+    "content": "Q: How do you handle our data security? A: Cynbit follows industry-standard security practices including encrypted data transmission (TLS 1.3), encrypted storage, role-based access control, and regular security audits. For AI systems, Cynbit can deploy models on-premise or in private cloud environments to ensure data never leaves your infrastructure. Q: Do you sign NDAs? A: Yes, standard NDAs are signed before any technical discussions. Q: Are your AI systems compliant with data protection laws? A: Cynbit designs systems compliant with India's DPDP Act 2023 and, where applicable, GDPR.",
+    "category": "company",
+    "last_updated": "2026-10-29"
+  },
+  {
+    "id": "cynbit_differentiators_001",
+    "source": "cynbit.in/about/why-cynbit",
+    "title": "Why Choose Cynbit Technologies",
+    "content": "What sets Cynbit apart from other technology agencies: (1) AI-first from day one: Every solution is designed with AI augmentation as a core component, not an afterthought. (2) Product DNA: Having built our own products (BitElevate, TenantEase, Revio), we understand the nuances of building for scale, not just for demos. (3) Outcome-focused: Engagements are structured around measurable business outcomes (leads generated, costs reduced, time saved), not just deliverables. (4) Founder-led delivery: Senior technical founders are directly involved in client projects, not just as overseers but as hands-on builders. (5) Startup velocity: Enterprise-grade quality at startup speed. Most MVPs delivered in under 12 weeks.",
+    "category": "company",
+    "last_updated": "2026-10-29"
+  }
+]
+

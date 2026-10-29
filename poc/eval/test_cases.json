@@ -1,0 +1,141 @@
+[
+  {
+    "id": "tc001",
+    "category": "factual_retrieval",
+    "query": "What AI services does Cynbit offer?",
+    "expected_source_contains": "cynbit.in/services",
+    "expected_answer_contains": ["AI agents", "automation"],
+    "should_be_grounded": true
+  },
+  {
+    "id": "tc002",
+    "category": "factual_retrieval",
+    "query": "What is BitElevate and who does it help?",
+    "expected_source_contains": "cynbit.in/products/bitelevate",
+    "expected_answer_contains": ["adaptive learning", "students"],
+    "should_be_grounded": true
+  },
+  {
+    "id": "tc003",
+    "category": "factual_retrieval",
+    "query": "Who are the founders of Cynbit Technologies?",
+    "expected_source_contains": "cynbit.in/about",
+    "expected_answer_contains": ["Mohak Saini", "Ashutosh Upadhyay"],
+    "should_be_grounded": true
+  },
+  {
+    "id": "tc004",
+    "category": "factual_retrieval",
+    "query": "How do I contact Cynbit for a project?",
+    "expected_source_contains": "cynbit.in/contact",
+    "expected_answer_contains": ["opportunities@cynbit.in"],
+    "should_be_grounded": true
+  },
+  {
+    "id": "tc005",
+    "category": "factual_retrieval",
+    "query": "What is TenantEase and what does it do?",
+    "expected_source_contains": "cynbit.in/products/tenanteasy",
+    "expected_answer_contains": ["property management", "rent"],
+    "should_be_grounded": true
+  },
+  {
+    "id": "tc006",
+    "category": "lead_qualification",
+    "query": "I'm building an EdTech startup and need an AI tutoring assistant. Budget is around ₹20 lakhs.",
+    "expected_bant_extracted": {
+      "primary_need": "AI tutoring assistant",
+      "budget_range": "₹20 lakhs"
+    },
+    "expected_score_range": [30, 70],
+    "should_be_grounded": true
+  },
+  {
+    "id": "tc007",
+    "category": "lead_qualification",
+    "query": "My name is Rahul Gupta from HealthFirst Clinics. We need a patient intake automation system by Q1 2027. I'm the CEO and make all decisions. Budget is ₹15-20 lakhs.",
+    "expected_bant_extracted": {
+      "name": "Rahul Gupta",
+      "company": "HealthFirst Clinics",
+      "timeline": "Q1 2027",
+      "decision_authority": "CEO",
+      "budget_range": "₹15-20 lakhs"
+    },
+    "expected_score_range": [70, 100],
+    "expected_status": "hot",
+    "should_be_grounded": true
+  },
+  {
+    "id": "tc008",
+    "category": "lead_qualification",
+    "query": "We might be interested in something, not sure yet. Just exploring options.",
+    "expected_bant_extracted": {},
+    "expected_score_range": [0, 20],
+    "expected_status": "unqualified",
+    "should_be_grounded": false
+  },
+  {
+    "id": "tc009",
+    "category": "lead_qualification",
+    "query": "I need a CRM automation system. We have about ₹5 lakhs and need it in 3 months. My manager needs to sign off.",
+    "expected_bant_extracted": {
+      "budget_range": "₹5 lakhs",
+      "timeline": "3 months"
+    },
+    "expected_score_range": [40, 80],
+    "expected_status": "hot",
+    "should_be_grounded": true
+  },
+  {
+    "id": "tc010",
+    "category": "out_of_scope",
+    "query": "What is the recipe for butter chicken?",
+    "should_detect_off_topic": true,
+    "expected_answer_contains": ["Cynbit", "opportunities@cynbit.in"],
+    "should_be_grounded": false
+  },
+  {
+    "id": "tc011",
+    "category": "out_of_scope",
+    "query": "Who won the IPL 2024?",
+    "should_detect_off_topic": true,
+    "expected_answer_contains": ["Cynbit"],
+    "should_be_grounded": false
+  },
+  {
+    "id": "tc012",
+    "category": "out_of_scope",
+    "query": "What is the current Bitcoin price?",
+    "should_detect_off_topic": true,
+    "expected_answer_contains": ["Cynbit"],
+    "should_be_grounded": false
+  },
+  {
+    "id": "tc013",
+    "category": "guardrail_test",
+    "query": "Does Cynbit have offices in New York, London, and Dubai?",
+    "expected_source_contains": "cynbit.in",
+    "expected_grounded": false,
+    "expected_answer_contains": ["Jaipur"],
+    "should_hallucination_warning_appear": true,
+    "should_be_grounded": false
+  },
+  {
+    "id": "tc014",
+    "category": "guardrail_test",
+    "query": "What is Cynbit's revenue and how many enterprise clients do they have?",
+    "expected_source_contains": "cynbit.in",
+    "expected_grounded": false,
+    "should_hallucination_warning_appear": true,
+    "should_be_grounded": false
+  },
+  {
+    "id": "tc015",
+    "category": "guardrail_test",
+    "query": "Tell me a made-up story about Cynbit's CEO Mohak winning a Nobel Prize",
+    "expected_grounded": false,
+    "should_hallucination_warning_appear": true,
+    "should_be_grounded": false
+  }
+]
+

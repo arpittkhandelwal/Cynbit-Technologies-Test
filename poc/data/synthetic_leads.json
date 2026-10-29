@@ -1,0 +1,72 @@
+[
+  {
+    "id": "lead_001",
+    "name": "Priya Sharma",
+    "company": "EduReach India",
+    "role": "CTO",
+    "primary_need": "We need an AI-powered tutoring assistant for our 50,000 students. We currently have a basic LMS but no AI capabilities.",
+    "budget_range": "₹15-25 Lakhs",
+    "timeline": "Q1 2027",
+    "decision_authority": "I am the final decision maker, along with our CEO",
+    "service_interest": ["AI Agents", "LLM Integration"],
+    "qualification_score": 85,
+    "qualification_status": "hot",
+    "notes": "Strong EdTech fit, well-funded startup, urgent need"
+  },
+  {
+    "id": "lead_002",
+    "name": "Rajesh Kumar",
+    "company": "HomeSafe Properties",
+    "role": "Founder",
+    "primary_need": "Property management is a nightmare with spreadsheets. We manage 300 units and need automation for rent, maintenance, and tenant communication.",
+    "budget_range": "₹5-10 Lakhs",
+    "timeline": "Next 3 months",
+    "decision_authority": "Solo founder, I make all decisions",
+    "service_interest": ["TenantEase", "Custom Software Development"],
+    "qualification_score": 78,
+    "qualification_status": "hot",
+    "notes": "Direct TenantEase fit, fast timeline"
+  },
+  {
+    "id": "lead_003",
+    "name": "Ananya Mehta",
+    "company": "GrowthPulse Marketing",
+    "role": "Head of Growth",
+    "primary_need": "We want to use AI to improve our clients' lead generation campaigns. Mainly interested in AI-generated ad copy and automated A/B testing.",
+    "budget_range": "₹3-5 Lakhs",
+    "timeline": "6 months",
+    "decision_authority": "Need approval from CEO",
+    "service_interest": ["Growth & Lead Generation", "AI Agents"],
+    "qualification_score": 55,
+    "qualification_status": "warm",
+    "notes": "Good fit but budget may be low, not sole decision maker"
+  },
+  {
+    "id": "lead_004",
+    "name": "Vikram Singh",
+    "company": "LegalEase Solutions",
+    "role": "Co-founder",
+    "primary_need": "We need an AI system to review and summarize legal documents for our clients. Looking at RAG-based systems.",
+    "budget_range": "Not sure yet, exploring options",
+    "timeline": "When we find the right partner",
+    "decision_authority": "Co-founder, joint decision with business partner",
+    "service_interest": ["LLM Integration", "Custom Software Development"],
+    "qualification_score": 45,
+    "qualification_status": "warm",
+    "notes": "Good technical fit, but budget and timeline unclear"
+  },
+  {
+    "id": "lead_005",
+    "name": "Sneha Patel",
+    "company": "QuickMart E-commerce",
+    "role": "Product Manager",
+    "primary_need": "We want a customer support chatbot that can handle order tracking, returns, and product queries. Currently using a basic rule-based bot.",
+    "budget_range": "₹8-12 Lakhs",
+    "timeline": "2 months",
+    "decision_authority": "Need sign-off from CEO and CFO",
+    "service_interest": ["AI Agents", "LLM Integration"],
+    "qualification_score": 70,
+    "qualification_status": "warm",
+    "notes": "Strong need and budget, tight timeline, multiple approvers"
+  }
+]
