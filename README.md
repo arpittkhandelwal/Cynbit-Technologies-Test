@@ -1,10 +1,15 @@
 # Cynbit Technologies — AI/ML Engineer Intern Assessment Submission
 
+## 🚀 **Live Interactive Demo:** [https://cynbit-technologies.streamlit.app](https://cynbit-technologies.streamlit.app)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cynbit-technologies.streamlit.app)
+
 > **Candidate Assessment Deliverables**  
 > **Target Role:** AI/ML Engineer Intern  
 > **Company:** Cynbit Technologies Private Limited (Jaipur, Rajasthan, India | [cynbit.in](https://cynbit.in))  
 > **Assessment Date:** October 2026  
-> **Status:** Fully Functional & Evaluated (100% Pass Rate on 15 Test Scenarios)
+> **Status:** Fully Functional & Evaluated (100% Pass Rate on 15 Test Scenarios)  
+> **Live Demo:** [https://cynbit-technologies.streamlit.app](https://cynbit-technologies.streamlit.app)
 
 ---
 

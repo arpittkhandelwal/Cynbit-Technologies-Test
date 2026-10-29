@@ -1,7 +1,12 @@
 # Cynbit IntelliAssist
 
+## 🚀 **Live Interactive Demo:** [https://cynbit-technologies.streamlit.app](https://cynbit-technologies.streamlit.app)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cynbit-technologies.streamlit.app)
+
 > **AI-powered lead qualification & knowledge assistant for [cynbit.in](https://cynbit.in)**  
-> Built for Cynbit Technologies Internship Assessment | October 2026
+> Built for Cynbit Technologies Internship Assessment | October 2026  
+> **Live URL:** [https://cynbit-technologies.streamlit.app](https://cynbit-technologies.streamlit.app)
 
 ---
 
